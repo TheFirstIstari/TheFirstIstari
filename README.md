@@ -1,6 +1,6 @@
 Computer Science Student
 Subsisting on caffiene or sugar
-Discord -> Elwë#6748
+Discord -> elfoftheteleri
 reach out if you want
 I mostly just use this as a code repo
 
