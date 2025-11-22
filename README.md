@@ -2,7 +2,7 @@ Computer Science Student
 Subsisting on caffiene or sugar
 Discord -> elfoftheteleri
 reach out if you want
-I mostly just use this as a code repo
+I mostly just use this as a code repo recently I've been shockingly inactive due to my time being monopolised by gitlab contributions instead 😉
 
 
 <!---
