@@ -1,8 +1,10 @@
 Computer Science Student | Systems & Infrastructure
 Subsisting on caffeine or sugar
 
-![Most Used Languages](./top-langs.svg)
-![GitHub Stats](./stats.svg)
+<p float="left">
+  <img src="./stats.svg" width="47%">
+  <img src="./top-langs.svg" width="47%">
+</p>
 
 ---
 
