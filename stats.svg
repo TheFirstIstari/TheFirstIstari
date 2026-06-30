@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="140" viewBox="0 0 360 140">
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<text x="25" y="35" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Total Commits:</text>
+<text x="335" y="35" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="13" text-anchor="end">650</text>
+<text x="25" y="63" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Public Repos:</text>
+<text x="335" y="63" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="13" text-anchor="end">19</text>
+<text x="25" y="91" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Followers:</text>
+<text x="335" y="91" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="13" text-anchor="end">5</text>
+<text x="25" y="119" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Following:</text>
+<text x="335" y="119" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="13" text-anchor="end">35</text>
+</svg>
