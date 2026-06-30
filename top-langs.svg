@@ -1,40 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="362" viewBox="0 0 360 362">
-<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
-<text x="20" y="28" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="14" font-weight="600">Most Used Languages</text>
-<text x="20" y="59" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Java</text>
-<rect x="100" y="45" width="176.7" height="22" fill="#b07219" rx="3"/>
-<text x="281.7" y="59" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">73.6%</text>
-<text x="20" y="85" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">HTML</text>
-<rect x="100" y="71" width="15.3" height="22" fill="#e34c26" rx="3"/>
-<text x="120.3" y="85" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">6.4%</text>
-<text x="20" y="111" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Rust</text>
-<rect x="100" y="97" width="12.4" height="22" fill="#dea584" rx="3"/>
-<text x="117.4" y="111" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">5.2%</text>
-<text x="20" y="137" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">TypeScript</text>
-<rect x="100" y="123" width="9.3" height="22" fill="#3178c6" rx="3"/>
-<text x="114.3" y="137" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">3.9%</text>
-<text x="20" y="163" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Assembly</text>
-<rect x="100" y="149" width="6.4" height="22" fill="#6E4C13" rx="3"/>
-<text x="111.4" y="163" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">2.7%</text>
-<text x="20" y="189" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Svelte</text>
-<rect x="100" y="175" width="6.3" height="22" fill="#ff3e00" rx="3"/>
-<text x="111.3" y="189" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">2.6%</text>
-<text x="20" y="215" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Python</text>
-<rect x="100" y="201" width="5.1" height="22" fill="#3572A5" rx="3"/>
-<text x="110.1" y="215" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">2.1%</text>
-<text x="20" y="241" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">C#</text>
-<rect x="100" y="227" width="4.1" height="22" fill="#178600" rx="3"/>
-<text x="109.1" y="241" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">1.7%</text>
-<text x="20" y="267" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Dart</text>
-<rect x="100" y="253" width="1.7" height="22" fill="#00B4AB" rx="3"/>
-<text x="106.7" y="267" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">0.7%</text>
-<text x="20" y="293" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">C++</text>
-<rect x="100" y="279" width="1.4" height="22" fill="#f34b7d" rx="3"/>
-<text x="106.4" y="293" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">0.6%</text>
-<text x="20" y="319" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">Shell</text>
-<rect x="100" y="305" width="1.0" height="22" fill="#89e051" rx="3"/>
-<text x="106.0" y="319" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">0.3%</text>
-<text x="20" y="345" fill="#c9d1d9" font-family="Segoe UI,system-ui,sans-serif" font-size="11">C</text>
-<rect x="100" y="331" width="1.0" height="22" fill="#555555" rx="3"/>
-<text x="106.0" y="345" fill="#8b949e" font-family="Segoe UI,system-ui,sans-serif" font-size="10">0.3%</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="195" viewBox="0 0 380 195">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}</style>
+<rect width="380" height="195" fill="#0d1117" rx="4.5"/>
+<text x="16" y="30" fill="#e6edf3" font-size="13" font-weight="600">Most Used Languages</text>
+<text x="16" y="61" fill="#e6edf3" font-size="11">Java</text>
+<rect x="91" y="48" width="202.1" height="20" fill="#b07219" rx="2"/>
+<text x="298.1" y="61" fill="#7d8590" font-size="10">74.0%</text>
+<text x="16" y="85" fill="#e6edf3" font-size="11">HTML</text>
+<rect x="91" y="72" width="17.5" height="20" fill="#e34c26" rx="2"/>
+<text x="113.5" y="85" fill="#7d8590" font-size="10">6.4%</text>
+<text x="16" y="109" fill="#e6edf3" font-size="11">Rust</text>
+<rect x="91" y="96" width="14.2" height="20" fill="#dea584" rx="2"/>
+<text x="110.2" y="109" fill="#7d8590" font-size="10">5.2%</text>
+<text x="16" y="133" fill="#e6edf3" font-size="11">TypeScript</text>
+<rect x="91" y="120" width="10.6" height="20" fill="#3178c6" rx="2"/>
+<text x="106.6" y="133" fill="#7d8590" font-size="10">3.9%</text>
+<text x="16" y="157" fill="#e6edf3" font-size="11">Assembly</text>
+<rect x="91" y="144" width="7.3" height="20" fill="#6E4C13" rx="2"/>
+<text x="103.3" y="157" fill="#7d8590" font-size="10">2.7%</text>
+<text x="16" y="181" fill="#e6edf3" font-size="11">Svelte</text>
+<rect x="91" y="168" width="7.3" height="20" fill="#ff3e00" rx="2"/>
+<text x="103.3" y="181" fill="#7d8590" font-size="10">2.7%</text>
+<text x="16" y="205" fill="#e6edf3" font-size="11">Python</text>
+<rect x="91" y="192" width="5.8" height="20" fill="#3572A5" rx="2"/>
+<text x="101.8" y="205" fill="#7d8590" font-size="10">2.1%</text>
+<text x="16" y="229" fill="#e6edf3" font-size="11">C#</text>
+<rect x="91" y="216" width="4.6" height="20" fill="#178600" rx="2"/>
+<text x="100.6" y="229" fill="#7d8590" font-size="10">1.7%</text>
+<text x="16" y="253" fill="#e6edf3" font-size="11">Dart</text>
+<rect x="91" y="240" width="2.0" height="20" fill="#00B4AB" rx="2"/>
+<text x="98.0" y="253" fill="#7d8590" font-size="10">0.7%</text>
+<text x="16" y="277" fill="#e6edf3" font-size="11">C++</text>
+<rect x="91" y="264" width="1.6" height="20" fill="#f34b7d" rx="2"/>
+<text x="97.6" y="277" fill="#7d8590" font-size="10">0.6%</text>
 </svg>
