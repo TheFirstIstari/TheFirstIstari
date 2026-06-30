@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="468" viewBox="0 0 420 468">
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<text x="20" y="32" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
+<text x="20" y="68" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Java</text>
+<rect x="110" y="50" width="206.7" height="28" fill="#b07219" rx="3"/>
+<text x="321.7" y="68" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">71.3%</text>
+<text x="20" y="102" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">HTML</text>
+<rect x="110" y="84" width="17.9" height="28" fill="#e34c26" rx="3"/>
+<text x="132.9" y="102" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">6.2%</text>
+<text x="20" y="136" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Rust</text>
+<rect x="110" y="118" width="14.5" height="28" fill="#dea584" rx="3"/>
+<text x="129.5" y="136" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">5.0%</text>
+<text x="20" y="170" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">TypeScript</text>
+<rect x="110" y="152" width="10.8" height="28" fill="#3178c6" rx="3"/>
+<text x="125.8" y="170" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">3.7%</text>
+<text x="20" y="204" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">JavaScript</text>
+<rect x="110" y="186" width="10.1" height="28" fill="#f1e05a" rx="3"/>
+<text x="125.1" y="204" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">3.5%</text>
+<text x="20" y="238" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Assembly</text>
+<rect x="110" y="220" width="7.5" height="28" fill="#6E4C13" rx="3"/>
+<text x="122.5" y="238" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">2.6%</text>
+<text x="20" y="272" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Svelte</text>
+<rect x="110" y="254" width="7.4" height="28" fill="#ff3e00" rx="3"/>
+<text x="122.4" y="272" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">2.6%</text>
+<text x="20" y="306" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Python</text>
+<rect x="110" y="288" width="5.9" height="28" fill="#3572A5" rx="3"/>
+<text x="120.9" y="306" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">2.0%</text>
+<text x="20" y="340" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">C#</text>
+<rect x="110" y="322" width="4.7" height="28" fill="#178600" rx="3"/>
+<text x="119.7" y="340" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">1.6%</text>
+<text x="20" y="374" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Dart</text>
+<rect x="110" y="356" width="2.0" height="28" fill="#00B4AB" rx="3"/>
+<text x="117.0" y="374" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">0.7%</text>
+<text x="20" y="408" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">C++</text>
+<rect x="110" y="390" width="1.6" height="28" fill="#f34b7d" rx="3"/>
+<text x="116.6" y="408" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">0.5%</text>
+<text x="20" y="442" fill="#c9d1d9" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Shell</text>
+<rect x="110" y="424" width="0.8" height="28" fill="#89e051" rx="3"/>
+<text x="115.8" y="442" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="11">0.3%</text>
+</svg>
